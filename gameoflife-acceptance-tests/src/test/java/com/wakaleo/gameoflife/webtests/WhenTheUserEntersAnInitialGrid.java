@@ -1,5 +1,7 @@
 package com.wakaleo.gameoflife.webtests;
 
+// this is a comment
+
 import com.wakaleo.gameoflife.webtests.requirements.GameOfLifeApplication;
 import com.wakaleo.gameoflife.webtests.steps.PlayerSteps;
 import net.thucydides.core.annotations.Feature;
