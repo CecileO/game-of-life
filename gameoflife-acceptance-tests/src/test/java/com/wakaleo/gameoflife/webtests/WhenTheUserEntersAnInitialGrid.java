@@ -1,5 +1,6 @@
 package com.wakaleo.gameoflife.webtests;
 
+// another comment
 // this is a comment
 
 import com.wakaleo.gameoflife.webtests.requirements.GameOfLifeApplication;
